@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+People might know me as TheFaR8 or TheFaR previously, as I just changed my username recently.
+
+I'm a year 2 Computer Science at The Chinese University of Hong Kong and I'm passionate in building open-source applications (and definitely learning something new along the way)
+You can contact me through my [Email](mailto:theodorefabianr@gmail.com), [Instagram](https://www.instagram.com/thefar8) or [LinkedIn](https://www.linkedin.com/in/theodorefabian/)
+
 <!--
 **FlyingTwigs/FlyingTwigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
