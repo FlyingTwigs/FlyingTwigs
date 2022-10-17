@@ -2,8 +2,11 @@
 
 People might know me as TheFaR8 or TheFaR previously, as I just changed my username recently.
 
-I'm a year 3 Computer Science at The Chinese University of Hong Kong and I'm passionate in building open-source applications (and definitely learning something new along the way). I'm currently an exchange student in Pohang University of Science and Technology.
+I'm a year 4 Computer Science at The Chinese University of Hong Kong and I'm passionate in building open-source applications (and definitely learning something new along the way). 
 You can contact me through my [Email](mailto:theodorefabianr@gmail.com), [Instagram](https://www.instagram.com/thefar8) or [LinkedIn](https://www.linkedin.com/in/theodorefabian/)
+
+🔭 I’m currently taking courses for on Final Year Project (Computer Vision related topic), Cloud Computing and Algorithm
+
 
 <!--
 **FlyingTwigs/FlyingTwigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
